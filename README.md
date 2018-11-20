@@ -1,3 +1,3 @@
-# URI Magazine
+# URI Gen Ed
 
-Customizations for the magazine.
+Customizations for the Gen Ed website.
